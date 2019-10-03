@@ -1,10 +1,14 @@
 #indice{
-    color: red;
+    color: none;
     text-decoration: none;
-    font
+    font-style: italic; text-decoration: none;
 }
 #indice li>a:hover{ background-
     color: White; color: Gray;
-    
     text-transform: uppercase;
+    }
+    #piedepagina{
+        background-color: aliceblue; border-style: black;
+        color: teal; 
+        font-style: normal;
     }
